@@ -1,0 +1,50 @@
+ 
+Practical No: 10(D)
+
+Practical Title:  Write a C++ program for expression conversion as infix to postfix and its evaluation using stack
+Aim: Implement C++ program for expression conversion as infix to postfix and its evaluation using stack based on given conditions
+•	Operands and operator, both must be singlecharacter.
+•	Input Postfix expression must be in a desired format.
+•	Only '+', '-', '*' and '/ ' operators are expected
+	
+Pre-requisite:
+•	Basics of stack.
+•	Different operations that can be performed on stack
+
+Objective:
+•	To convert the expression from infix to postfix
+•	Evaluate the expression
+.
+
+ Input      : Infix expression
+
+Outcome:   
+•	Equivalent postfix expression
+•	Result of evaluation of an expression.
+
+
+Theory:
+   
+-	Write short theory for stack.
+-	Explain infix to postfix expression
+-	Example infix to postfix conversion
+
+Algorithms :
+Write your own algorithms
+
+Flowchart :
+Draw flowchart for above algorithms.
+
+
+Conclusion:By this way, we can perform expression conversion as infix to postfix and its evaluation using stack.
+
+Question Bank:
+1.	What is Stack? 
+2.	Which are the different operations that can be performed on stack? 
+3.	Explain PUSH, POP operations on stack
+4.	What are the applications of stack? 
+5.	What is infix, postfix and prefix expression?
+6.	Conversion – infix to postfix, infix to prefix , etc
+7.	Evaluation of infix, postfix and prefix expressi
+
+
