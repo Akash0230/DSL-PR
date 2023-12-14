@@ -1,0 +1,41 @@
+Practical No: 9(D)
+Practical Title:  Write C++ program to check well formedness of parenthesis using stack.
+Aim: In any language program mostly syntax error occurs due to
+{},[]. Write C++ program using stack to check whether given expression is well parenthesized or   not.
+	
+Pre-requisite:
+•	Basics of stack.
+•	Different operations that can be performed on stack
+
+Objective:
+•	To check whether the given expression is well parenthesized or not.
+
+ Input      : Expresstion using {},(),[].s
+
+
+Outcome:   Result of checking well formedness of parenthesis.
+
+Theory:
+   
+-	Write short theory of stack.
+-	Write concept of well form parenthesis.
+-	Example of well form parenthesis.
+
+Algorithms :
+Write your own algorithms
+
+Flowchart :
+Draw flowchart for above algorithms.
+
+
+Conclusion:
+By this way, we can check well formedness of parenthesis using stack.
+
+
+
+Question Bank:
+1.	What is Stack?
+2.	Which are the different operations that can be performed on stack?
+3.	Explain PUSH, POP operations on stack
+4.	What are the applications of stack?
+
